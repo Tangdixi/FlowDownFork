@@ -63,17 +63,4 @@ For bulk management, FlowDown supports importing and exporting model configurati
 
 ## License
 
-The source code is licensed under AGPL-3.0. You can find the full license text in the [LICENSE](./LICENSE) file.
-
-The decoupled libraries used to build, or extracted from FlowDown are listed below with their respective licenses:
-
-- [AlertController](https://github.com/Lakr233/AlertController) - MIT License
-- [ColorfulX](https://github.com/Lakr233/ColorfulX) - MIT License
-- [ListViewKit](https://github.com/Lakr233/ListViewKit) - MIT License
-- [MarkdownView](https://github.com/Lakr233/MarkdownView) - MIT License
-- [GlyphixTextFx](https://github.com/ktiays/GlyphixTextFx/) - MIT License
-- [LanguageModelChatUI](https://github.com/Lakr233/LanguageModelChatUI) - MIT License
-
-Please note that while the code is open source, the FlowDown name, icon, and artwork are proprietary. For commercial licensing inquiries, please contact us.
-
-© 2025-2026 FlowDown Team (@Lakr233) All Rights Reserved.
+None
